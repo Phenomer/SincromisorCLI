@@ -1,0 +1,14 @@
+offer_url: "https://sincromisor.example.com/offer"
+ice_server: "stun:stun.example.com:3478"
+sender_device:
+    channels: 1
+    samplerate: 48000
+    dtype: "int16"
+    blocksize: 960
+    device: null
+receiver_device:
+    channels: 2
+    samplerate: 48000
+    dtype: "int16"
+    blocksize: 960
+    device: null
