@@ -66,5 +66,6 @@ class AudioSenderTrack(AudioStreamTrack):
     def close(self):
         if not self.shutdown_event.is_set():
             self.shutdown_event.set()
+        self.audio_p.join()
         self.audio_p.close()
         self.voice_queue.close()
