@@ -1,10 +1,10 @@
 # SincromisorCLI
 
-SincromisorのCLIクライアントです。ブラウザなしで音声認識・音声合成が利用できます。
+[Sincromisor](https://github.com/Phenomer/Sincromisor)のCLIクライアントです。ブラウザなしで音声認識・音声合成が利用できます。
 
 ## 必要なもの
 
-* Sincromisorサーバー
+* [Sincromisorサーバー](https://github.com/Phenomer/Sincromisor)
 * 音声入出力デバイスをもつ環境
 * サーバーに到達できるネットワーク
 
