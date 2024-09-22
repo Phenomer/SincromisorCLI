@@ -1,6 +1,6 @@
 # SincromisorCLI
 
-[Sincromisor](https://github.com/Phenomer/Sincromisor)のCLIクライアントです。ブラウザなしで音声認識・音声合成が利用できます。
+かわいいキャラの姿と声になっておしゃべりできるサービス基盤[Sincromisor](https://github.com/Phenomer/Sincromisor)のCLIクライアントです。ブラウザなしで音声認識・音声合成が利用できます。
 
 ## 必要なもの
 
