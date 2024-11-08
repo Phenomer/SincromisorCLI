@@ -1,4 +1,4 @@
-offer_url: "https://sincromisor.example.com/offer"
+offer_url: "https://sincromisor.example.com/api/v1/rtc/offer"
 ice_server: "stun:stun.example.com:3478"
 sender_device:
     channels: 1
